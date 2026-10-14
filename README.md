@@ -15,6 +15,17 @@ As redes sociais modificaram a forma como as informações são divulgadas, apli
 
 Para rodar a aplicação web localmente (com ou sem Docker), veja o [`web/README.md`](web/README.md).
 
+## Aplicação em produção
+
+A aplicação está disponível em **[ehfakeounao.vercel.app](https://ehfakeounao.vercel.app)**. Para votar nos tweets, é preciso criar uma conta e confirmar o e-mail.
+
+| Parte | Hospedagem |
+|---|---|
+| Frontend | [Vercel](https://vercel.com) |
+| Backend | [Render](https://render.com), plano gratuito |
+| Banco de dados | [MongoDB Atlas](https://www.mongodb.com/atlas), plano gratuito |
+| E-mails | API do Gmail |
+
 ## Dados
 
 Os tweets são uma amostra da base disponibilizada pelo grupo INTERFACES, da Universidade Federal de São Carlos (UFSCar), coletada pela API do Twitter/X durante as eleições de 2022. Os dados brutos não estão neste repositório.
