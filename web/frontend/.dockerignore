@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+dist
+webpack
+.vercel
+.env*
+.git
+.gitignore
+*.md
+Dockerfile
+.dockerignore

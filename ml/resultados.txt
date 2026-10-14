@@ -1,0 +1,20 @@
+Dados com baixa confiança (Snorkel): 3513
+Dados rotulados pelos usuários: 48
+
+Resultados - Dados rotulados pelo Snorkel vs Dados rotulados pelos usuários
+Accuracy: 0.8958
+Precision: 0.9149
+Recall: 0.9773
+F1 Score: 0.9451
+
+Confusion Matrix:
+[[ 0  4]
+ [ 1 43]]
+
+5 divergências encontradas entre os rotulamentos
+Divergências:
+ID: 1579249224050671617, Rotulados pelos usuários: 0, Rotulados pelo Snorkel: 1
+ID: 1579250066090766336, Rotulados pelos usuários: 0, Rotulados pelo Snorkel: 1
+ID: 1579126885992517633, Rotulados pelos usuários: 1, Rotulados pelo Snorkel: 0
+ID: 1579260275101814784, Rotulados pelos usuários: 0, Rotulados pelo Snorkel: 1
+ID: 1579251530875949056, Rotulados pelos usuários: 0, Rotulados pelo Snorkel: 1

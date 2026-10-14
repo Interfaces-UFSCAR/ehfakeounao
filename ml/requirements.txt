@@ -1,0 +1,10 @@
+snorkel
+pandas
+numpy==2.1.0
+yellowbrick
+scikit-learn
+matplotlib
+nltk
+pyarrow
+dask
+dask-ml
